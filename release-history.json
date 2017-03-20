@@ -1,0 +1,26 @@
+{"releaseHistory": [
+    {
+    "date": "Feb 13, 2017",
+    "releases": [    {
+      "firstRelease": true,
+      "gav": "org.jenkins-ci.plugins:structs:1.6",
+      "latestRelease": true,
+      "timestamp": 1486977076000,
+      "title": "Structs Plugin",
+      "version": "1.6",
+      "wiki": "https://wiki.jenkins-ci.org/display/JENKINS/Structs+plugin"
+    }]
+  },
+    {
+    "date": "Feb 17, 2017",
+    "releases": [    {
+      "firstRelease": true,
+      "gav": "org.jenkins-ci.plugins:msbuild:1.27",
+      "latestRelease": true,
+      "timestamp": 1487324616000,
+      "title": "Jenkins MSBuild Plugin",
+      "version": "1.27",
+      "wiki": "http://wiki.jenkins-ci.org/display/JENKINS/MSBuild+Plugin"
+    }]
+  }
+]}
