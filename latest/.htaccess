@@ -1,2 +1,2 @@
-Redirect 302 /private-jenkins-update-center/latest/msbuild.hpi /private-jenkins-update-center/plugins/msbuild/1.27/msbuild.hpi
-Redirect 302 /private-jenkins-update-center/latest/structs.hpi /private-jenkins-update-center/plugins/structs/1.6/structs.hpi
+Redirect 302 /private-jenkins-update-center/latest/msbuild.hpi /private-jenkins-update-center/download/plugins/msbuild/1.27/msbuild.hpi
+Redirect 302 /private-jenkins-update-center/latest/structs.hpi /private-jenkins-update-center/download/plugins/structs/1.6/structs.hpi
